@@ -10,7 +10,8 @@ public class Client {
 		weatherData.setMeasurement(80, 64, 30.5f);
 		weatherData.removeObserver(generalDisplay);
 		
-		weatherData.setMeasurement(70, 57, 31.5f);
+		weatherData.setMeasurement(70, 57, 31.6f);
+		weatherData.setMeasurement(70, 57, 31.6f);
 		
 	}
 }
