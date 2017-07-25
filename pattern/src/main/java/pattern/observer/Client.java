@@ -12,6 +12,7 @@ public class Client {
 		
 		weatherData.setMeasurement(70, 57, 31.6f);
 		weatherData.setMeasurement(70, 57, 31.6f);
+		weatherData.setMeasurement(70, 57, 31.6f);
 		
 	}
 }
